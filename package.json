@@ -1,0 +1,12 @@
+{
+  "name": "Butey-Tasks",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/ShathaAlrayyani7/Butey-Tasks.git",
+  "author": "ShathaAlrayyani7 <shatha.alrayyani@optimumpartners.co>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
